@@ -13,11 +13,11 @@ In the file "Medicare_Analysis_MH.ipynb" there are visualizations and data analy
 
 ![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/usersLine.png)
 
-Looking at the number of medicare beneficiaries who have used telemedicine services, there was an increase in usage of telemedicine services in the second quarter of 2020 (correlating with the onset of the pandemic). Since then, the general trend has been a decrease in telemedicine users. However, the number of Medicare beneficiaries who use telemedicine services remains higher in 2023 than before the onset of the COVID-19 pandemic. Again, the trend in telehealth-eligible users may not be an accurate representation of services which were eligible for telemedicine since the list of covered telehealth services was effective as of July 2022.
+Looking at the number of medicare beneficiaries who have used telemedicine services, there was an increase in usage of telemedicine services in the second quarter of 2020 (correlating with the onset of the pandemic). Since then, the general trend has been a decrease in telemedicine users. 
 
 ![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/usersBar.png)
 
-When looking at the data by year alone, rather than by year and by quarter, one can see a decreasing trend in number of telehealth users and number of telehealth-eligible users. There is a trend of a decreasing number of telehealth-eligible users as well, however it has not been as significant of a decrease as in the number of telehealth users.
+When looking at the data by year alone, rather than by year and by quarter, one can see a decreasing trend in number of telehealth users and number of telehealth-eligible users. There is a trend of a decreasing number of telehealth-eligible users as well, however it has not been as significant of a decrease as in the number of telehealth users. However, the number of Medicare beneficiaries who use telemedicine services remains higher in 2023 than before the onset of the COVID-19 pandemic. Again, the trend in telehealth-eligible users may not be an accurate representation of services which were eligible for telemedicine since the list of covered telehealth services was effective as of July 2022.
 
 # Question 2:
 
