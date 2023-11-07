@@ -6,6 +6,8 @@ Our group chose to consider trends in the telemedicine usage in the United State
 
 We worked collectively to clean the original dataset by reading the csv file, creating a dataframe, removing rows of empty data, and separating the data into datasets based on if it was aggregated at the national level or by individual state. Each group member then visualized the data to answer different analysis questions that we came up together at the start of our project. This analysis and visualization was done in the three separate ipynb files named "Medicare_Analysis_MH.ipynb", "Medicare_Analysis_States&Locality.ipynb", and Medicare_analysis_demo.ipynb". These notebooks are all saved in the folder called "Analysis Notebooks" in this repository. Any visualizations that we created in our notebooks are saved in the folder called "Graphs" in this repository.
 
+Our final presentation describing the project can be found in the file "Group 1 - Telehealth Presentation.pdf".
+
 # Question 1: 
 ## What effect did the onset of the 2020 pandemic have on the usage of telemedicine, and if there was an effect, have trends been sustained?
 
