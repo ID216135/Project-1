@@ -6,6 +6,9 @@ Our group chose to consider trends in the telemedicine usage in the United State
 
 We worked collectively to clean the original dataset by reading the csv file, creating a dataframe, removing rows of empty data, and separating the data into datasets based on if it was aggregated at the national level or by individual state. Each group member then visualized the data to answer different analysis questions that we came up together at the start of our project. This analysis and visualization was done in the three separate ipynb files named "Medicare_Analysis_MH.ipynb", "Medicare_Analysis_States&Locality.ipynb", and Medicare_analysis_demo.ipynb".
 
+# Question 1: What effect did the onset of the 2020 pandemic have on the usage of telemedicine?
+##  And if there was an effect, have trends been sustained?
+
 In the file "Medicare_Analysis_MH.ipynb" there are visualizations and data analysis to answer the question of if there was a change in telemedicine usage after the onset of the COVID-19 pandemic in March of 2020 and if that effect has continued. This notebook focused on the part of the dataset that was aggregated at the national level. The two populations that were visualized are "Total Telehealth-Eligible Users" and "Telehealth Users". "Total Telehealth-Eligible Users" refers to the number of medicare beneficiaries who accessed services that are eligible for telemedicine. However, this eligibilty was determined from a list of covered services finalized in July of 2022. So, it is unclear what the variance in that population was exactly since the services users accessed before the eligibilty list was confirmed may not have been eligible for telemedicine. "Telehealth Users" refers to Medicare beneficiaries who had telehealth vists (including audio only and audio-video visits).
 ![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/usersLine.png)
 
