@@ -35,8 +35,14 @@ However, when looking at each population as a subset, rural recipients were far 
 
 ![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/Urban_v_Rural_Line.png)
 ![image](https://github.com/ID216135/Project-1/assets/143837858/1966fd25-1783-4b1c-990f-24c2efe723d4)
+
+Looking at the data in terms of sex you can see that females use telemedince more frequently then males do. 
 ![image](https://github.com/ID216135/Project-1/assets/143837858/5d4fddbc-9826-4bef-acd6-1732104cacc8)
+
+When it comes to race both Hispanice and Asain/Pacifice Islanders tend to use telemedicine more. The gorup that uses telemedince the least is the non-Hispanic White group. 
 ![image](https://github.com/ID216135/Project-1/assets/143837858/5e4bde5f-9479-4963-a9d2-b1aee4ca7f4f)
+
+Finally, when it comes to age there is a large difference between those under the age of 64 and those above. All three gorups above 64 are very similar is usage, but each is significanly lower then those under the age of 64.
 ![image](https://github.com/ID216135/Project-1/assets/143837858/692765b5-433c-4fb8-8168-1ae32de9b229)
 
 
