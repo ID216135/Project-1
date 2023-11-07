@@ -18,6 +18,10 @@ Looking at the number of medicare beneficiaries who have used telemedicine servi
 
 When looking at the data by year alone, rather than by year and by quarter, one can see a decreasing trend in number of telehealth users and number of telehealth-eligible users. There is a trend of a decreasing number of telehealth-eligible users as well, however it has not been as significant of a decrease as in the number of telehealth users.
 
+# Question 2:
+
+## What was the breakdown in telemedicine usage by demographic factors?
+
 Looking at the demographic data, we can draw a few conclusions. It is clear the eligible users under 64 used telemedicine the most since 2020. As for sex, females used telemedicine more than males by 6%. Finally, when it comes to race, Hispanic people had the highest percentage of usage among eligible users.
 
 There was also a clear difference in usage by a recipient's locality, i.e. whether they lived in a rural or urban area. 58% of the total telehealth users were residing in urban areas, which does not, by itself, show a difference, as there may be more urban users overall.
