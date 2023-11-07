@@ -34,6 +34,7 @@ There was also a clear difference in usage by a recipient's locality, i.e. wheth
 However, when looking at each population as a subset, rural recipients were far less likely to make use of telemedicine services, with a lower usage rate within their group at every timepoint. The gap was closest prior to the pandemic, with only a 1.7% difference in usage. however, after the pandemic hit in Q2 2020, the gap was consistently at least 4.4%, with a peak difference of 11.2%. The difference in usage has been shrinking since the onset of the pandemic, but remains at least several percentage points tall.
 
 ![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/Urban_v_Rural_Line.png)
+![image](https://github.com/ID216135/Project-1/assets/143837858/1966fd25-1783-4b1c-990f-24c2efe723d4)
 
 # Question 3: 
 ## Does Telemedicine Usage Vary Significantly by State?
