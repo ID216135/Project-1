@@ -35,6 +35,10 @@ However, when looking at each population as a subset, rural recipients were far 
 
 ![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/Urban_v_Rural_Line.png)
 ![image](https://github.com/ID216135/Project-1/assets/143837858/1966fd25-1783-4b1c-990f-24c2efe723d4)
+![image](https://github.com/ID216135/Project-1/assets/143837858/5d4fddbc-9826-4bef-acd6-1732104cacc8)
+![image](https://github.com/ID216135/Project-1/assets/143837858/5e4bde5f-9479-4963-a9d2-b1aee4ca7f4f)
+![image](https://github.com/ID216135/Project-1/assets/143837858/692765b5-433c-4fb8-8168-1ae32de9b229)
+
 
 # Question 3: 
 ## Does Telemedicine Usage Vary Significantly by State?
