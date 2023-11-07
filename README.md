@@ -17,8 +17,28 @@ When looking at the data by year alone, rather than by year and by quarter, one 
 
 Looking at the demographic data, we can draw a few conclusions. It is clear the eligible users under 64 used telemedicine the most since 2020. As for sex, females used telemedicine more than males by 6%. Finally, when it comes to race, Hispanic people had the highest percentage of usage among eligible users.
 
-In the file "Medicare_Analysis_States&Locality.ipynb", we analyzed the data based on state and locality. There was a clear difference in telemedicine usage by state. States like California and Massachussetts have a much greater proportion of their population use telemedicine than states like Nebraska and North Dakota, on average. Additionally, the change in telemedicine usage from Q1 to Q2 2020 was also highly variable by state, with some states like Monatana only increasing by 22 percentage points, while others, like Massachussetts, increased by 60 percentage points. There was a very tight correlation between a state's usage prior to the pandemic and their usage after the pandemic's onset, with an r-value of 0.898. Additionally, a state's usage prior to the pandemic was very highly correlated with their average usage from 2020 to 2023, with an r-value of 0.843.
+There was also a clear difference in usage by a recipient's locality, i.e. whether they lived in a rural or urban area. 58% of the total telehealth users were residing in urban areas, which does not, by itself, show a difference, as there may be more urban users overall.
+
+
+
+However, when looking at each population as a subset, rural recipients were far less likely to make use of telemedicine services, with a lower usage rate within their group at every timepoint. The gap was closest prior to the pandemic, with only a 1.7% difference in usage. however, after the pandemic hit in Q2 2020, the gap was consistently at least 4.4%, with a peak difference of 11.2%. The difference in usage has been shrinking since the onset of the pandemic, but remains at least several percentage points tall.
+
+![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/Urban_v_Rural_Line.png)
+
+# Question 3: Does Telemedicine Usage Vary Significantly by State?
+
+In the file "Medicare_Analysis_States&Locality.ipynb", we analyzed the data based on state and locality. There was a clear difference in telemedicine usage by state. States like California and Massachussetts have a much greater proportion of their population use telemedicine than states like Nebraska and North Dakota, on average.
 
 ![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/Mean%20Telehealth%20Usage%20by%20State.png)
 
-There was also a clear difference in usage by a recipient's locality, i.e. whether they lived in a rural or urban area. 58% of the total telehealth users were residing in urban areas, which does not, by itself, show a difference, as there may be more urban users overall. However, when looking at each population as a subset, rural recipients were far less likely to make use of telemedicine services, with a lower usage rate within their group at every timepoint. The gap was closest prior to the pandemic, with only a 1.7% difference in usage. however, after the pandemic hit in Q2 2020, the gap was consistently at least 4.4%, with a peak difference of 11.2%. The difference in usage has been shrinking since the onset of the pandemic, but remains at least several percentage points tall.
+Additionally, the change in telemedicine usage from Q1 to Q2 2020 was also highly variable by state, with some states like Monatana only increasing by 22 percentage points, while others, like Massachussetts, increased by 60 percentage points. 
+
+![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/Change%20in%20Peak%20Telehealth%20Usage%20by%20State.png)
+
+There was a very tight correlation between a state's usage prior to the pandemic and their usage after the pandemic's onset, with an r-value of 0.898.
+
+![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/Scatter_Plot.png)
+
+Additionally, a state's usage prior to the pandemic was very highly correlated with their average usage from 2020 to 2023, with an r-value of 0.843.
+
+![Alt text](https://github.com/ID216135/Project-1/blob/main/Graphs/Scatter_Plot_2.png)
